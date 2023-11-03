@@ -20,3 +20,18 @@ XIAO Esp32C3的引脚图如图所示：
 </p>
 
 注意：板子上的Esp32C3模块的Type-C口是朝下的，确定每个引脚的功能时请将上图旋转180度查看。
+
+具体引脚功能如下：
+| 按键           | 引脚   |
+| :--------------| :---- |
+| OLED_SCK_PIN   | 7     |
+| OLED_SDA_PIN   | 6     |
+| DHT11_PIN      | 20    |
+| MQ7_PIN        | 2     |
+| SW1_SELECT_PIN | 9     |
+| SW1_NEXT_PIN   | 10    |
+| SW1_PREV_PIN   | 5     |
+| SW1_UP_PIN     | 21    |
+| SW1_DOWN_PIN   | 4     |
+| SW2_PIN        | 8     |
+| BUZZER_PIN     | 3     |
