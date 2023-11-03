@@ -17,7 +17,7 @@ XIAO Esp32C3的引脚图如图所示：
   <img src="https://github.com/yusuhua/xiao-esp32c3-monitor-board/blob/main/image/pinout.png" alt="Esp32C3 pinout photo"/>
 </p>
 
-注意：板子上的Esp32C3模块的Type-C口是朝下的，确定每个引脚的功能时请将上图旋转180度查看。
+注意：板子上的Esp32C3模块的Type-C口是朝下的，确定每个引脚的功能时请将上图旋转180度后查看。
 
 具体引脚功能如下：
 | 按键           | 引脚   |
@@ -40,3 +40,6 @@ XIAO Esp32C3的引脚图如图所示：
 - 0.96 OLED最好使用白色款，如果不喜欢白色也可以用蓝色
 - RF天线座为斜插式的，具体看上边的成品图
 - LED为3mm 1.8V~2.0V的发光二极管
+- SW1为五向多功能开关
+- SW2为四脚贴片式轻触开关
+- U1为弯角1x4P的排母
