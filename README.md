@@ -12,3 +12,4 @@
   <img src="https://github.com/yusuhua/xiao-esp32c3-monitor-board/blob/main/image/monitor.jpg" alt="Monitor display photo"/>
 </p>
 
+## 引脚图
