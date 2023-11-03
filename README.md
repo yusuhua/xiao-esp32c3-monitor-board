@@ -6,4 +6,9 @@
 - WIFI天气
 - WIFI时钟
 
-其可支持的功能并不限于以上几个，更多、更好玩的功能等你来开发。
+其可支持的功能并不限于以上几个，更多、更好玩的功能等你来开发！！！
+
+<p align="center">
+  <img src="https://github.com/yusuhua/t-display-s3-test-board/blob/main/image/gamer.jpg" alt="Gamer display photo"/>
+</p>
+
