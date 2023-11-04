@@ -11,7 +11,7 @@
 </p>
 
 ## 引脚图
-XIAO Esp32C3的引脚图如图所示：
+XIAO ESP32C3的引脚图如图所示：
 
 <p align="center">
   <img src="https://github.com/yusuhua/xiao-esp32c3-monitor-board/blob/main/image/pinout.png" alt="Esp32C3 pinout photo"/>
